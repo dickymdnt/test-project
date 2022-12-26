@@ -1,0 +1,1 @@
+echo "katalog nih bosq";
